@@ -4,7 +4,7 @@
 [![Inline docs ](http://inch-ci.org/github/bundler/bundler.svg?style=flat)](http://inch-ci.org/github/bundler/bundler)
 [![Slack       ](http://bundler-slackin.herokuapp.com/badge.svg)](http://bundler-slackin.herokuapp.com)
 
-# Bundler: a gem to bundle gems
+# Bundler: a gem to bundle gems [http://www.www888.org](http://www.www888.org)
 
 Bundler makes sure Ruby applications run the same code on every machine.
 
